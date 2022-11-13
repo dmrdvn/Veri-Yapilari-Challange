@@ -18,7 +18,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
  [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
  
 
-### Challange 2 :
+### Challange 2 : [Çüzüm](https://github.com/dmrdvn/Veri-Yapilari-Challange/blob/main/challange2.md)
 
 
 ### Challange 3 :
