@@ -62,7 +62,7 @@ Elemanları sıralayabilmek için önce tek eleman kalana kadar ayırıyoruz.
 
 ```mermaid
 graph TD;
-    A(16, 21, 11, 8, 12, 22) -- 3ünü sola ayırdık -->B;
+    A(16, 21, 11, 8, 12, 22) -->B;
     A-->C;
     B(16, 21, 11)-->D;
     B-->E;
@@ -114,4 +114,4 @@ graph TD;
 
 ## Big-O Gösterimi
 
-O(nlogn)
+$O(nlogn)$
